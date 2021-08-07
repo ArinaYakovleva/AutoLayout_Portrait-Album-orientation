@@ -1,3 +1,7 @@
 # AutoLayout_Portrait-Album-orientation
 Пример верстки аудио плеера и экрана блокировки в портретной и альбомной ориентации с использованием constraints и Stack View
-![alt text](demo_player_portrait.png "Плеер в портретной ориентации")
+
+1) Аудио плеер
+
+  Плеер в портретной ориентации
+  ![alt text](player_portrait.jpg "Плеер в портретной ориентации")
